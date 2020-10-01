@@ -1,3 +1,3 @@
-# repo1
-my grocery application in c++
+# grocery
+grocery application in c++
 
